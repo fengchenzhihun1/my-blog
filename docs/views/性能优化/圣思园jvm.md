@@ -3,7 +3,7 @@ title: jvm学习
 date: 2019-12-20
 sidebar: 'auto'
 categories:
- - 性能提示
+ - 性能提升
 tags:
  - jvm
 publish: true
