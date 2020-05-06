@@ -20,49 +20,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de097a3c-1de5-4e42-a26e-222ccf88f6e3" name="默认的" comment="代码提交">
-      <change afterPath="$PROJECT_DIR$/docs/views/JavaSE/javastudy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/images/20200426084607.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/images/20200426183746.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/前端框架/vue.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/开发工具/typor基础语法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/views/数据库/database.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/JavaSE/精通juc中级笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/JavaSE/精通juc中级笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/性能优化/圣思园jvm.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/性能优化/圣思园jvm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/JavaSE/多线程概念.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/JavaSE/多线程概念.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/0.styles.8897033b.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/1.28054c94.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/10.e7ed2c9c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/11.5e21cefd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/12.51bd02c3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/13.e70e0c3e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/14.ef6e5955.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/15.e6a69454.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/16.4b61e164.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/17.c8cb41c8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/18.7ed68070.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/19.1d2d38a1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/20.eb104a5c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/21.51e02e59.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/22.46b8d538.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/23.455258c3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/24.efbe49e3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/25.458485e7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/26.a5c5e258.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/27.2a476698.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/3.618e78c9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/4.5eca7560.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/5.7282dd3e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/6.9bffcec4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/7.9cdbccb0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/8.8c7c8796.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/9.a6c9e2c0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/app.bfb4e916.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/11.75e2bf37.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/12.dfd2e853.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/13.41643309.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/14.bc4a69f7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/15.08384132.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/16.58622bea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/19.be569eef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/20.71b35142.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/21.c9c1cf50.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/22.e50e4bc0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/23.28b22d60.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/24.77642abd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/26.4bfe82d3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/27.c61e5c81.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/28.9b5540d3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/29.6a3706b3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/30.2445c37b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/31.45ec3e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/32.58390f0f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/4.d23e7cc1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/5.56d066af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/6.b8a711fd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/app.acb865c2.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/JavaSE/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/JavaSE/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/性能提示/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/前端知识/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/前端知识/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/开发工具/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/开发工具/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/性能提升/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/性能提升/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/数据库/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/数据库/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/数据结构与算法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/数据结构与算法/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/架构/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/架构/index.html" afterDir="false" />
@@ -75,17 +62,25 @@
       <change beforePath="$PROJECT_DIR$/public/tag/jvm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/jvm/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tag/lambda/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/lambda/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tag/oracle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/oracle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/vue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/vue/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/命令行/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/命令行/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tag/多线程/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/多线程/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tag/多项程/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/多项程/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tag/微服务/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/微服务/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tag/数据结构/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/数据结构/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/编辑工具/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/编辑工具/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/问题/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/问题/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/timeline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/timeline/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/views/JavaSE/2016student初級.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/JavaSE/2016student初級.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/views/JavaSE/201912java学习.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/JavaSE/201912java学习.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/views/JavaSE/996study.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/JavaSE/996study.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/views/JavaSE/javastudy.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/JavaSE/javastudy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/views/JavaSE/多线程概念.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/JavaSE/多线程概念.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/views/JavaSE/精通juc中级笔记.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/JavaSE/精通juc中级笔记.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/views/前端框架/vue.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/前端框架/vue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/views/开发工具/typor基础语法.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/开发工具/typor基础语法.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/views/性能优化/圣思园jvm.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/性能优化/圣思园jvm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/views/数据库/database.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/数据库/database.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/views/数据库/oracle基础.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/数据库/oracle基础.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/views/数据结构与算法/jk数据结构与算法之美学习笔记.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/数据结构与算法/jk数据结构与算法之美学习笔记.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/views/架构思想/microServiceFromDesignToDeploymen.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/views/架构思想/microServiceFromDesignToDeploymen.html" afterDir="false" />
@@ -127,7 +122,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue/first-vue" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -140,18 +135,18 @@
     <property name="settings.editor.selected.configurable" value="DockerRegistry" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\sourcecode\my-blog\docs\views\images" />
-      <recent name="F:\sourcecode\my-blog\docs\views\开发框架" />
-      <recent name="F:\sourcecode\my-blog\docs\views\数据库" />
-      <recent name="C:\Users\wrcsh\Desktop\文件\my-blog\docs\views\JavaSE\images" />
-      <recent name="C:\Users\wrcsh\Desktop\文件\my-blog\docs\views\JavaSE\2020" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\sourcecode\my-blog\docs\views\JavaSE" />
       <recent name="F:\sourcecode\my-blog\docs\views\开发工具" />
       <recent name="C:\Users\wrcsh\Desktop\文件\my-blog\docs\views" />
       <recent name="C:\Users\wrcsh\Desktop\文件\my-blog\docs\views\JavaSE" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\sourcecode\my-blog\docs\views\项目笔记" />
+      <recent name="F:\sourcecode\my-blog\docs\views\images" />
+      <recent name="F:\sourcecode\my-blog\docs\views\开发框架" />
+      <recent name="F:\sourcecode\my-blog\docs\views\数据库" />
+      <recent name="C:\Users\wrcsh\Desktop\文件\my-blog\docs\views\JavaSE\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -210,8 +205,18 @@
       <workItem from="1588304246903" duration="8254000" />
       <workItem from="1588560451914" duration="3042000" />
       <workItem from="1588596016069" duration="10830000" />
-      <workItem from="1588684525573" duration="717000" />
+      <workItem from="1588684525573" duration="2680000" />
+      <workItem from="1588764857429" duration="924000" />
+      <workItem from="1588775448607" duration="3605000" />
     </task>
+    <task id="LOCAL-00001" summary="代码提交">
+      <created>1588693730255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588693730255</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +234,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="代码提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码提交" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1040" y="460" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588648936694">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -238,11 +247,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="690" y="102" key="CommitChangelistDialog2/2560.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1588311807043" />
-    <state x="2962" y="422" key="FileChooserDialogImpl" timestamp="1588673956523">
+    <state x="2962" y="422" key="FileChooserDialogImpl" timestamp="1588765150323">
       <screen x="2560" y="0" width="1080" height="1880" />
     </state>
     <state x="954" y="314" key="FileChooserDialogImpl/2560.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1588647361246" />
-    <state x="2962" y="422" key="FileChooserDialogImpl/2560.0.1080.1880/0.0.2560.1400@2560.0.1080.1880" timestamp="1588673956523" />
+    <state x="2962" y="422" key="FileChooserDialogImpl/2560.0.1080.1880/0.0.2560.1400@2560.0.1080.1880" timestamp="1588765150323" />
     <state x="1092" y="549" key="Github.ShareDialog" timestamp="1588312922975">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -263,5 +272,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="960" y="302" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/2560.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1588311864763" />
+    <state x="557" y="198" width="1745" height="1003" key="new project wizard" timestamp="1588782627555">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="557" y="198" width="1745" height="1003" key="new project wizard/2560.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1588782627555" />
   </component>
 </project>
