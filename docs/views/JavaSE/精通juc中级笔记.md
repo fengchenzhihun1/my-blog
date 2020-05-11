@@ -5,7 +5,7 @@ sidebar: 'auto'
 categories:
  - JavaSE
 tags:
- - 多项程
+ - 多线程
 publish: true
 author: 晓蕊
 ---
