@@ -7,12 +7,18 @@
     "build": "vuepress build docs"
   },
   "devDependencies": {
-    "vuepress": "1.4.1",
-    "vuepress-theme-reco": "1.4.5",
-    "vuepress-plugin-flowchart": "^1.4.3",
     "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.2",
+    "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.5.7",
+    "@vuepress-reco/vuepress-plugin-extract-code": "^1.0.4",
     "@vuepress/plugin-nprogress": "^1.4.0",
-    "vuepress-plugin-reading-progress": "^1.0.8"
+    "@vuepress/plugin-pwa": "1.2.0",
+    "@vuepress/plugin-register-components": "1.2.0",
+    "vuepress": "^1.4.0",
+    "vuepress-plugin-flowchart": "1.4.3",
+    "vuepress-plugin-reading-progress": "^1.0.8",
+    "vuepress-plugin-sitemap": "2.3.0",
+    "vuepress-theme-reco": "1.6.1",
+    "whatwg-fetch": "3.0.0"
   },
   "description": "陈峰的博客"
 }
